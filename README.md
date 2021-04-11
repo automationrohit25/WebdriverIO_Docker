@@ -5,7 +5,7 @@ In this repository, I have created a framework for testing the web application u
 Tech Stack used :
 1. WebDriverIO
 2. JavaScript 
-3. Mocha Framework
+3. Mocha 
 4. Allure Reports
 5. Docker
 
