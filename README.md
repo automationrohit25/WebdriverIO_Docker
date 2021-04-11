@@ -9,6 +9,6 @@ Tech Stack used :
 4. Allure Reports
 5. Docker
 
-I have used the Mocha Framework for setting up this Automation Suite. Also implemented the POM(Page Object Model) design pattern in the framework.
-Cross browser testing(Chrome and Firefox)  has also been implemented.
+I have used the Mocha Framework for setting up this Automation Suite. Implemented the POM(Page Object Model) design pattern in the framework.
+Cross browser testing(Chrome and Firefox)  has  been implemented.
 For reporting purpose, I have used Allure Reports. and I have also setup the solution with the Docker Images.
