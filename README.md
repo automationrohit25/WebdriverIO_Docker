@@ -1,6 +1,6 @@
 # WebdriverIO_Docker
 
-In this repository, I have created a framework for testing a web application using WebDriverIO.
+In this repository, I have created a framework for testing the web application using WebDriverIO.
 
 Tech Stack used :
 1. WebDriverIO
