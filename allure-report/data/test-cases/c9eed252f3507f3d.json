@@ -1,0 +1,315 @@
+{
+  "uid" : "c9eed252f3507f3d",
+  "name" : "Verify User is able to click on Cars Link and verify types of cars",
+  "fullName" : "Volvo Home Page.Verify User is able to click on Cars Link and verify types of cars",
+  "historyId" : "bfa9fa5f9d0e052e0d8603c6b289d3b3",
+  "time" : {
+    "start" : 1618028428446,
+    "stop" : 1618028444082,
+    "duration" : 15636
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618028428446,
+        "stop" : 1618028428459,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "299488189e1589d7",
+        "name" : "Response",
+        "source" : "299488189e1589d7.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618028428459,
+        "stop" : 1618028428496,
+        "duration" : 37
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a6f3adf2d2a5b859",
+        "name" : "Request",
+        "source" : "a6f3adf2d2a5b859.json",
+        "type" : "application/json",
+        "size" : 76
+      }, {
+        "uid" : "20cd9a5cae199f5f",
+        "name" : "Response",
+        "source" : "20cd9a5cae199f5f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/c03348a5-bfe3-4cf0-917f-05c468e69299/click",
+      "time" : {
+        "start" : 1618028428505,
+        "stop" : 1618028429048,
+        "duration" : 543
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618028434063,
+        "stop" : 1618028434566,
+        "duration" : 503
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3b9f20c51617e31",
+        "name" : "Request",
+        "source" : "b3b9f20c51617e31.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "9e9e4f901f68840",
+        "name" : "Response",
+        "source" : "9e9e4f901f68840.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/b5c22615-409b-4f2a-b88a-9000c8f60994/text",
+      "time" : {
+        "start" : 1618028434576,
+        "stop" : 1618028435401,
+        "duration" : 825
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "29d34f5023173f9b",
+        "name" : "Response",
+        "source" : "29d34f5023173f9b.json",
+        "type" : "application/json",
+        "size" : 10
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618028435403,
+        "stop" : 1618028435666,
+        "duration" : 263
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8a3346dbfbf65ba8",
+        "name" : "Request",
+        "source" : "8a3346dbfbf65ba8.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "8d2e00ff35b9aada",
+        "name" : "Response",
+        "source" : "8d2e00ff35b9aada.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/beb34392-f95a-4ff6-802e-af2bc37ecc88/text",
+      "time" : {
+        "start" : 1618028435675,
+        "stop" : 1618028435967,
+        "duration" : 292
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b10102994741ae0d",
+        "name" : "Response",
+        "source" : "b10102994741ae0d.json",
+        "type" : "application/json",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618028435968,
+        "stop" : 1618028436027,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "be12ca6f64d31a63",
+        "name" : "Request",
+        "source" : "be12ca6f64d31a63.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "9e53e2d9aa097caf",
+        "name" : "Response",
+        "source" : "9e53e2d9aa097caf.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/b326f154-bd70-4ed6-a384-8146eb01d983/text",
+      "time" : {
+        "start" : 1618028436036,
+        "stop" : 1618028436311,
+        "duration" : 275
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2c564b5c1ee8e790",
+        "name" : "Response",
+        "source" : "2c564b5c1ee8e790.json",
+        "type" : "application/json",
+        "size" : 14
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618028436312,
+        "stop" : 1618028436558,
+        "duration" : 246
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2b9faf15949a6fed",
+        "name" : "Request",
+        "source" : "2b9faf15949a6fed.json",
+        "type" : "application/json",
+        "size" : 95
+      }, {
+        "uid" : "dd127842bddbe167",
+        "name" : "Response",
+        "source" : "dd127842bddbe167.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/7746ea48-94a7-489e-95ca-de7ed36deeba/click",
+      "time" : {
+        "start" : 1618028436568,
+        "stop" : 1618028439076,
+        "duration" : 2508
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "attachmentsCount" : 14,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to click on Cars Link and verify types of cars"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9eed252f3507f3d.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

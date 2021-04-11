@@ -1,0 +1,171 @@
+{
+  "uid" : "fde6da2335056c40",
+  "name" : "Verify Title of Volvo Home Page",
+  "fullName" : "Volvo Home Page.Verify Title of Volvo Home Page",
+  "historyId" : "716efdf35f0bab5cc730ebc71a02e323",
+  "time" : {
+    "start" : 1618026122732,
+    "stop" : 1618026151624,
+    "duration" : 28892
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618026124844,
+        "stop" : 1618026125985,
+        "duration" : 1141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6be114f173cbcaaa",
+        "name" : "Response",
+        "source" : "6be114f173cbcaaa.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1618026125988,
+        "stop" : 1618026143228,
+        "duration" : 17240
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "272cbbf0133d05dd",
+        "name" : "Request",
+        "source" : "272cbbf0133d05dd.json",
+        "type" : "application/json",
+        "size" : 73
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618026143231,
+        "stop" : 1618026143678,
+        "duration" : 447
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "704da713a8861a3a",
+        "name" : "Request",
+        "source" : "704da713a8861a3a.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "55ffe224f75a5d2e",
+        "name" : "Response",
+        "source" : "55ffe224f75a5d2e.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/351c1701-52db-46ac-81b5-d50b9c2e9148/click",
+      "time" : {
+        "start" : 1618026143699,
+        "stop" : 1618026144906,
+        "duration" : 1207
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1618026149933,
+        "stop" : 1618026151379,
+        "duration" : 1446
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "68cc044a26180091",
+        "name" : "Response",
+        "source" : "68cc044a26180091.json",
+        "type" : "application/json",
+        "size" : 29
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Title of Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fde6da2335056c40.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

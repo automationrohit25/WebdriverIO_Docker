@@ -1,0 +1,261 @@
+{
+  "uid" : "5419a771a3eeb888",
+  "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.Click on Mild Hybrid Cars and redirect to New Page",
+  "historyId" : "3e886377aa23fd04b156ed22a47f738e",
+  "time" : {
+    "start" : 1618040717350,
+    "stop" : 1618040742576,
+    "duration" : 25226
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618040717356,
+        "stop" : 1618040721125,
+        "duration" : 3769
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7e16c0ef5f1e76a7",
+        "name" : "Response",
+        "source" : "7e16c0ef5f1e76a7.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1618040721128,
+        "stop" : 1618040732909,
+        "duration" : 11781
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bd7d818f85e387f0",
+        "name" : "Request",
+        "source" : "bd7d818f85e387f0.json",
+        "type" : "application/json",
+        "size" : 73
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618040732913,
+        "stop" : 1618040733055,
+        "duration" : 142
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c34cb27f1cca5529",
+        "name" : "Request",
+        "source" : "c34cb27f1cca5529.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "5d7831d61c42dc2a",
+        "name" : "Response",
+        "source" : "5d7831d61c42dc2a.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/1eab26b1-76c2-472c-b65a-2f776105213a/click",
+      "time" : {
+        "start" : 1618040733078,
+        "stop" : 1618040733691,
+        "duration" : 613
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618040736695,
+        "stop" : 1618040736722,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b6a38947f7dba70b",
+        "name" : "Request",
+        "source" : "b6a38947f7dba70b.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "93cc002927e00dc0",
+        "name" : "Response",
+        "source" : "93cc002927e00dc0.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618040736729,
+        "stop" : 1618040736767,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ae6eda556d5ac1e9",
+        "name" : "Request",
+        "source" : "ae6eda556d5ac1e9.json",
+        "type" : "application/json",
+        "size" : 302
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618040739780,
+        "stop" : 1618040739819,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fb9db99d952a859",
+        "name" : "Request",
+        "source" : "fb9db99d952a859.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "431b1af7cfff2424",
+        "name" : "Response",
+        "source" : "431b1af7cfff2424.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/e39dca43-e4f8-4740-a91e-98be340de1f1/click",
+      "time" : {
+        "start" : 1618040739834,
+        "stop" : 1618040742550,
+        "duration" : 2716
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1618040742555,
+        "stop" : 1618040742568,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6df89d0eae3ae3d0",
+        "name" : "Response",
+        "source" : "6df89d0eae3ae3d0.json",
+        "type" : "application/json",
+        "size" : 49
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 9,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click on Mild Hybrid Cars and redirect to New Page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-64.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5419a771a3eeb888.json",
+  "parameterValues" : [ "firefox-64.0" ]
+}

@@ -1,0 +1,175 @@
+{
+  "uid" : "81a60cde1f8fc523",
+  "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.Click on Mild Hybrid Cars and redirect to New Page",
+  "historyId" : "550ea8893b7c1a74696fbe629eb931cd",
+  "time" : {
+    "start" : 1618037893953,
+    "stop" : 1618037905414,
+    "duration" : 11461
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'scrollIntoView' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'scrollIntoView' of undefined\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:11:39)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'scrollIntoView' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'scrollIntoView' of undefined\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:11:39)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618037893957,
+        "stop" : 1618037894164,
+        "duration" : 207
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "db2b549b18129af0",
+        "name" : "Response",
+        "source" : "db2b549b18129af0.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1618037894167,
+        "stop" : 1618037901114,
+        "duration" : 6947
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e49cf1137e2f76c5",
+        "name" : "Request",
+        "source" : "e49cf1137e2f76c5.json",
+        "type" : "application/json",
+        "size" : 73
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618037901121,
+        "stop" : 1618037901423,
+        "duration" : 302
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "19621372cdbb9618",
+        "name" : "Request",
+        "source" : "19621372cdbb9618.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "41d760af3e02fd72",
+        "name" : "Response",
+        "source" : "41d760af3e02fd72.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/b62b066d-026a-4c7c-ba27-6d2059d10cf9/click",
+      "time" : {
+        "start" : 1618037901479,
+        "stop" : 1618037901985,
+        "duration" : 506
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1618037905016,
+        "stop" : 1618037905412,
+        "duration" : 396
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "750d511bb1c6abec",
+        "name" : "Screenshot",
+        "source" : "750d511bb1c6abec.png",
+        "type" : "image/png",
+        "size" : 137941
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click on Mild Hybrid Cars and redirect to New Page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81a60cde1f8fc523.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

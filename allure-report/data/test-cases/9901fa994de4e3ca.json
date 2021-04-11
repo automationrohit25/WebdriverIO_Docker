@@ -1,0 +1,266 @@
+{
+  "uid" : "9901fa994de4e3ca",
+  "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.Click on Mild Hybrid Cars and redirect to New Page",
+  "historyId" : "550ea8893b7c1a74696fbe629eb931cd",
+  "time" : {
+    "start" : 1618038997415,
+    "stop" : 1618039015284,
+    "duration" : 17869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <a aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/in/v/cars/other-powertrains\" class=\"a az bb bz cs ct cu cv cw dj dk dl dm dn do y\">...</a> is not clickable at point (697, 63). Other element would receive the click: <div class=\"_SiteNav-ae _SiteNav-af _SiteNav-ag _SiteNav-r _SiteNav-u _SiteNav-v _SiteNav-w\">...</div>\n                  (Session info: chrome=89.0.4389.114)",
+  "statusTrace" : "element click intercepted: Element <a aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/in/v/cars/other-powertrains\" class=\"a az bb bz cs ct cu cv cw dj dk dl dm dn do y\">...</a> is not clickable at point (697, 63). Other element would receive the click: <div class=\"_SiteNav-ae _SiteNav-af _SiteNav-ag _SiteNav-r _SiteNav-u _SiteNav-v _SiteNav-w\">...</div>\n                  (Session info: chrome=89.0.4389.114)\n                    at Object.getErrorFromResponseBody (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:23:32)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:25)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.click (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:13:39)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <a aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/in/v/cars/other-powertrains\" class=\"a az bb bz cs ct cu cv cw dj dk dl dm dn do y\">...</a> is not clickable at point (697, 63). Other element would receive the click: <div class=\"_SiteNav-ae _SiteNav-af _SiteNav-ag _SiteNav-r _SiteNav-u _SiteNav-v _SiteNav-w\">...</div>\n                  (Session info: chrome=89.0.4389.114)",
+    "statusTrace" : "element click intercepted: Element <a aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/in/v/cars/other-powertrains\" class=\"a az bb bz cs ct cu cv cw dj dk dl dm dn do y\">...</a> is not clickable at point (697, 63). Other element would receive the click: <div class=\"_SiteNav-ae _SiteNav-af _SiteNav-ag _SiteNav-r _SiteNav-u _SiteNav-v _SiteNav-w\">...</div>\n                  (Session info: chrome=89.0.4389.114)\n                    at Object.getErrorFromResponseBody (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:23:32)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:25)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.click (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:13:39)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618038997420,
+        "stop" : 1618038998069,
+        "duration" : 649
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "375f8ec7249b14f5",
+        "name" : "Response",
+        "source" : "375f8ec7249b14f5.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1618038998072,
+        "stop" : 1618039003101,
+        "duration" : 5029
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1ec40a3267d2d518",
+        "name" : "Request",
+        "source" : "1ec40a3267d2d518.json",
+        "type" : "application/json",
+        "size" : 41
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618039003104,
+        "stop" : 1618039003172,
+        "duration" : 68
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b2897950b489a92f",
+        "name" : "Request",
+        "source" : "b2897950b489a92f.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "e1c6eae73044b12",
+        "name" : "Response",
+        "source" : "e1c6eae73044b12.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/028c110e-4338-4e9b-8988-59552e7423f0/click",
+      "time" : {
+        "start" : 1618039003192,
+        "stop" : 1618039003561,
+        "duration" : 369
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618039006572,
+        "stop" : 1618039006691,
+        "duration" : 119
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8d931b1a564fc1b5",
+        "name" : "Request",
+        "source" : "8d931b1a564fc1b5.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "5c91e7b175881a6b",
+        "name" : "Response",
+        "source" : "5c91e7b175881a6b.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618039006711,
+        "stop" : 1618039006793,
+        "duration" : 82
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1f3dd7cc2cf49fbd",
+        "name" : "Request",
+        "source" : "1f3dd7cc2cf49fbd.json",
+        "type" : "application/json",
+        "size" : 302
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618039009810,
+        "stop" : 1618039009940,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a00cf2cecc784186",
+        "name" : "Request",
+        "source" : "a00cf2cecc784186.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "84cee42ebc5f5a63",
+        "name" : "Response",
+        "source" : "84cee42ebc5f5a63.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/46fbd275-6995-4abb-b41e-5e4a8af75572/click",
+      "time" : {
+        "start" : 1618039009947,
+        "stop" : 1618039015284,
+        "duration" : 5337
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: Element <a aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/in/v/cars/other-powertrains\" class=\"a az bb bz cs ct cu cv cw dj dk dl dm dn do y\">...</a> is not clickable at point (697, 63). Other element would receive the click: <div class=\"_SiteNav-ae _SiteNav-af _SiteNav-ag _SiteNav-r _SiteNav-u _SiteNav-v _SiteNav-w\">...</div>\n                  (Session info: chrome=89.0.4389.114)\n                    at Object.getErrorFromResponseBody (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:23:32)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:25)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.click (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:13:39)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+      "steps" : [ {
+        "name" : "GET /session/:sessionId/screenshot",
+        "time" : {
+          "start" : 1618039014266,
+          "stop" : 1618039015281,
+          "duration" : 1015
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "7352510fa029dc50",
+          "name" : "Screenshot",
+          "source" : "7352510fa029dc50.png",
+          "type" : "image/png",
+          "size" : 134051
+        } ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 9,
+    "attachmentsCount" : 10,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click on Mild Hybrid Cars and redirect to New Page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9901fa994de4e3ca.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

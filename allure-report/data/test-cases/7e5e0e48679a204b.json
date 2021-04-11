@@ -1,0 +1,112 @@
+{
+  "uid" : "7e5e0e48679a204b",
+  "name" : "Verify Title of Volvo Home Page",
+  "fullName" : "Volvo Home Page.Verify Title of Volvo Home Page",
+  "historyId" : "716efdf35f0bab5cc730ebc71a02e323",
+  "time" : {
+    "start" : 1618033132068,
+    "stop" : 1618033133730,
+    "duration" : 1662
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Parameter for \"url\" command needs to be type of string",
+  "statusTrace" : "Error: Parameter for \"url\" command needs to be type of string\n                    at Browser.url (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\commands\\browser\\url.js:40:15)\n                    at Browser.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:34)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Browser.url (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at HomePage.open (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\pageobjects\\/page.js:4:17)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/home.js:5:19)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Parameter for \"url\" command needs to be type of string",
+    "statusTrace" : "Error: Parameter for \"url\" command needs to be type of string\n                    at Browser.url (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\commands\\browser\\url.js:40:15)\n                    at Browser.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:34)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Browser.url (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at HomePage.open (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\pageobjects\\/page.js:4:17)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/home.js:5:19)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618033132581,
+        "stop" : 1618033133233,
+        "duration" : 652
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1c56f248212d5435",
+        "name" : "Response",
+        "source" : "1c56f248212d5435.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1618033133249,
+        "stop" : 1618033133728,
+        "duration" : 479
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "56be6b2617507b54",
+        "name" : "Screenshot",
+        "source" : "56be6b2617507b54.png",
+        "type" : "image/png",
+        "size" : 4196
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Title of Volvo Home Page"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e5e0e48679a204b.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

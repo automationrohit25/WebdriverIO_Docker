@@ -1,0 +1,141 @@
+{
+  "uid" : "8051970975953ba2",
+  "name" : "should verify headings on mild hybrid cars page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.should verify headings on mild hybrid cars page",
+  "historyId" : "63f3bc3629d74c437ca552b3dacd8431",
+  "time" : {
+    "start" : 1618028222787,
+    "stop" : 1618028223174,
+    "duration" : 387
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618028222788,
+        "stop" : 1618028222915,
+        "duration" : 127
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3fc6f890e57a7f4d",
+        "name" : "Response",
+        "source" : "3fc6f890e57a7f4d.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618028222916,
+        "stop" : 1618028222996,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8b30573845244c82",
+        "name" : "Request",
+        "source" : "8b30573845244c82.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "df6bc94b8217d480",
+        "name" : "Response",
+        "source" : "df6bc94b8217d480.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618028223007,
+        "stop" : 1618028223172,
+        "duration" : 165
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e6646e45e2e2a174",
+        "name" : "Request",
+        "source" : "e6646e45e2e2a174.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "e9fc741a7e41d77",
+        "name" : "Response",
+        "source" : "e9fc741a7e41d77.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify headings on mild hybrid cars page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8051970975953ba2.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

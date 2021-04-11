@@ -1,0 +1,189 @@
+{
+  "uid" : "8b4ac523305e6e59",
+  "name" : "should verify headings on mild hybrid cars page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.should verify headings on mild hybrid cars page",
+  "historyId" : "63f3bc3629d74c437ca552b3dacd8431",
+  "time" : {
+    "start" : 1618040691466,
+    "stop" : 1618040692945,
+    "duration" : 1479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618040691467,
+        "stop" : 1618040691484,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "71c6ca18dc03ab80",
+        "name" : "Response",
+        "source" : "71c6ca18dc03ab80.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618040691490,
+        "stop" : 1618040691955,
+        "duration" : 465
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "16c0d4df625b9f24",
+        "name" : "Request",
+        "source" : "16c0d4df625b9f24.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "160ac601fc508aef",
+        "name" : "Response",
+        "source" : "160ac601fc508aef.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618040691966,
+        "stop" : 1618040692024,
+        "duration" : 58
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4c5147a4f22e0601",
+        "name" : "Request",
+        "source" : "4c5147a4f22e0601.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "9fff0beeffac0c23",
+        "name" : "Response",
+        "source" : "9fff0beeffac0c23.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618040692026,
+        "stop" : 1618040692778,
+        "duration" : 752
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3b1d9dad65acbd2",
+        "name" : "Request",
+        "source" : "3b1d9dad65acbd2.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "ec25c957d404f738",
+        "name" : "Response",
+        "source" : "ec25c957d404f738.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/aca17d0a-27a3-4685-b2ee-78d9a48a5966/text",
+      "time" : {
+        "start" : 1618040692788,
+        "stop" : 1618040692942,
+        "duration" : 154
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2276dd8365119dd7",
+        "name" : "Response",
+        "source" : "2276dd8365119dd7.json",
+        "type" : "application/json",
+        "size" : 23
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify headings on mild hybrid cars page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b4ac523305e6e59.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

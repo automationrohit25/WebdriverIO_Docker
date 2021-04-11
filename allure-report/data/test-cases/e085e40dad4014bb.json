@@ -1,0 +1,353 @@
+{
+  "uid" : "e085e40dad4014bb",
+  "name" : "should verify headings on mild hybrid cars page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.should verify headings on mild hybrid cars page",
+  "historyId" : "63f3bc3629d74c437ca552b3dacd8431",
+  "time" : {
+    "start" : 1618041683736,
+    "stop" : 1618041685859,
+    "duration" : 2123
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618041683737,
+        "stop" : 1618041683869,
+        "duration" : 132
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c721a0c233c6ef10",
+        "name" : "Response",
+        "source" : "c721a0c233c6ef10.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041683872,
+        "stop" : 1618041684662,
+        "duration" : 790
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fd71f0ad63aec004",
+        "name" : "Request",
+        "source" : "fd71f0ad63aec004.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "8f53db576776791b",
+        "name" : "Response",
+        "source" : "8f53db576776791b.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618041684709,
+        "stop" : 1618041684911,
+        "duration" : 202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "92d6e345d0c42260",
+        "name" : "Request",
+        "source" : "92d6e345d0c42260.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "bd4919912722deb8",
+        "name" : "Response",
+        "source" : "bd4919912722deb8.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041684914,
+        "stop" : 1618041685162,
+        "duration" : 248
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f0ff40e73d5fadb",
+        "name" : "Request",
+        "source" : "f0ff40e73d5fadb.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "6e5ae278245541ac",
+        "name" : "Response",
+        "source" : "6e5ae278245541ac.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/0ec9b7ab-3016-4e14-9fcf-5021f8ada2cf/text",
+      "time" : {
+        "start" : 1618041685188,
+        "stop" : 1618041685852,
+        "duration" : 664
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fa6b1e87d17e1680",
+        "name" : "Response",
+        "source" : "fa6b1e87d17e1680.json",
+        "type" : "application/json",
+        "size" : 23
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify headings on mild hybrid cars page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f3a096277d86e48f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041190267,
+        "stop" : 1618041193017,
+        "duration" : 2750
+      }
+    }, {
+      "uid" : "8b4ac523305e6e59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040691466,
+        "stop" : 1618040692945,
+        "duration" : 1479
+      }
+    }, {
+      "uid" : "7eef63bb767ec633",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039272975,
+        "stop" : 1618039273470,
+        "duration" : 495
+      }
+    }, {
+      "uid" : "5141ccbdd9467f63",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`h2.a span`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618039189838,
+        "stop" : 1618039200391,
+        "duration" : 10553
+      }
+    }, {
+      "uid" : "e0f4418835f06278",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039125165,
+        "stop" : 1618039125654,
+        "duration" : 489
+      }
+    }, {
+      "uid" : "20ed202d3ed8a973",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"",
+      "time" : {
+        "start" : 1618039015285,
+        "stop" : 1618039028839,
+        "duration" : 13554
+      }
+    }, {
+      "uid" : "7c9b42cab1ec7662",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038862903,
+        "stop" : 1618038863493,
+        "duration" : 590
+      }
+    }, {
+      "uid" : "d03a94b52d916d22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038784427,
+        "stop" : 1618038784973,
+        "duration" : 546
+      }
+    }, {
+      "uid" : "226aa48ea738fc9d",
+      "status" : "failed",
+      "statusDetails" : "Expect  to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618038647526,
+        "stop" : 1618038658067,
+        "duration" : 10541
+      }
+    }, {
+      "uid" : "b6608cbbbf562974",
+      "status" : "failed",
+      "statusDetails" : "Expect  to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618038543538,
+        "stop" : 1618038553931,
+        "duration" : 10393
+      }
+    }, {
+      "uid" : "a2631159d321fa0e",
+      "status" : "failed",
+      "statusDetails" : "Expect  to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618038373320,
+        "stop" : 1618038383861,
+        "duration" : 10541
+      }
+    }, {
+      "uid" : "fe6223d0002f1599",
+      "status" : "failed",
+      "statusDetails" : "Expect  to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618038264109,
+        "stop" : 1618038274492,
+        "duration" : 10383
+      }
+    }, {
+      "uid" : "c054e283b5c4eaaf",
+      "status" : "failed",
+      "statusDetails" : "Expect  to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618038006369,
+        "stop" : 1618038016806,
+        "duration" : 10437
+      }
+    }, {
+      "uid" : "77d937e014159884",
+      "status" : "failed",
+      "statusDetails" : "Expect  to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618037905415,
+        "stop" : 1618037916134,
+        "duration" : 10719
+      }
+    }, {
+      "uid" : "ab1399d45d127eb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618037535822,
+        "stop" : 1618037536434,
+        "duration" : 612
+      }
+    }, {
+      "uid" : "93415f8912c66d18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028507675,
+        "stop" : 1618028507819,
+        "duration" : 144
+      }
+    }, {
+      "uid" : "2f3738d1a5ca33c2",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`h2.a span`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618028435061,
+        "stop" : 1618028445543,
+        "duration" : 10482
+      }
+    }, {
+      "uid" : "8051970975953ba2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028222787,
+        "stop" : 1618028223174,
+        "duration" : 387
+      }
+    }, {
+      "uid" : "5b5eafa9d818396a",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`h2.a span`) to be displayed\n                \n                Expected: \"displayed\"\n                Received: \"not displayed\"",
+      "time" : {
+        "start" : 1618028054187,
+        "stop" : 1618028064653,
+        "duration" : 10466
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e085e40dad4014bb.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

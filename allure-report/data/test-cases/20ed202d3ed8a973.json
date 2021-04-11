@@ -1,0 +1,472 @@
+{
+  "uid" : "20ed202d3ed8a973",
+  "name" : "should verify headings on mild hybrid cars page",
+  "fullName" : "scroll down Page to Mild Hybrid Cars.should verify headings on mild hybrid cars page",
+  "historyId" : "63f3bc3629d74c437ca552b3dacd8431",
+  "time" : {
+    "start" : 1618039015285,
+    "stop" : 1618039028839,
+    "duration" : 13554
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"",
+  "statusTrace" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"",
+    "statusTrace" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618039015286,
+        "stop" : 1618039015337,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1057dc41320980f0",
+        "name" : "Response",
+        "source" : "1057dc41320980f0.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618039015341,
+        "stop" : 1618039015386,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "89f926faee1228ae",
+        "name" : "Request",
+        "source" : "89f926faee1228ae.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "b30b08eb524096ec",
+        "name" : "Response",
+        "source" : "b30b08eb524096ec.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618039015417,
+        "stop" : 1618039015457,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f98699ef8e3d4e5",
+        "name" : "Request",
+        "source" : "f98699ef8e3d4e5.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "b3e4f7772454df84",
+        "name" : "Response",
+        "source" : "b3e4f7772454df84.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618039015468,
+        "stop" : 1618039015495,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b38439af88d3cd9",
+        "name" : "Request",
+        "source" : "b38439af88d3cd9.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "ebd588cc28328e48",
+        "name" : "Response",
+        "source" : "ebd588cc28328e48.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039015507,
+        "stop" : 1618039015576,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bc0f18115aa9f080",
+        "name" : "Response",
+        "source" : "bc0f18115aa9f080.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039016018,
+        "stop" : 1618039016036,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d61f2ecf7c8e488b",
+        "name" : "Response",
+        "source" : "d61f2ecf7c8e488b.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039016520,
+        "stop" : 1618039016541,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a521579d33cd519a",
+        "name" : "Response",
+        "source" : "a521579d33cd519a.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039017008,
+        "stop" : 1618039017027,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e51f148d4529aff1",
+        "name" : "Response",
+        "source" : "e51f148d4529aff1.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039017510,
+        "stop" : 1618039017523,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9d17bb254b92b29d",
+        "name" : "Response",
+        "source" : "9d17bb254b92b29d.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039018016,
+        "stop" : 1618039018031,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bafbaae87dab5d50",
+        "name" : "Response",
+        "source" : "bafbaae87dab5d50.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039018517,
+        "stop" : 1618039018550,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2d83a9fdb44285e9",
+        "name" : "Response",
+        "source" : "2d83a9fdb44285e9.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039019013,
+        "stop" : 1618039019049,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5c755c867ce932be",
+        "name" : "Response",
+        "source" : "5c755c867ce932be.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039019512,
+        "stop" : 1618039019528,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "93d6af1fa77f1caf",
+        "name" : "Response",
+        "source" : "93d6af1fa77f1caf.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+      "time" : {
+        "start" : 1618039020017,
+        "stop" : 1618039028839,
+        "duration" : 8822
+      },
+      "status" : "failed",
+      "statusMessage" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+      "steps" : [ {
+        "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+        "time" : {
+          "start" : 1618039020510,
+          "stop" : 1618039028839,
+          "duration" : 8329
+        },
+        "status" : "failed",
+        "statusMessage" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+        "steps" : [ {
+          "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+          "time" : {
+            "start" : 1618039021008,
+            "stop" : 1618039028839,
+            "duration" : 7831
+          },
+          "status" : "failed",
+          "statusMessage" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+          "steps" : [ {
+            "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+            "time" : {
+              "start" : 1618039021509,
+              "stop" : 1618039028839,
+              "duration" : 7330
+            },
+            "status" : "failed",
+            "statusMessage" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+            "steps" : [ {
+              "name" : "GET /session/:sessionId/element/82f2859b-9ff8-45ff-9a7f-1391104772b6/text",
+              "time" : {
+                "start" : 1618039022024,
+                "stop" : 1618039028839,
+                "duration" : 6815
+              },
+              "status" : "failed",
+              "statusMessage" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+              "steps" : [ {
+                "name" : "GET /session/:sessionId/screenshot",
+                "time" : {
+                  "start" : 1618039025538,
+                  "stop" : 1618039028839,
+                  "duration" : 3301
+                },
+                "status" : "failed",
+                "statusMessage" : "Error: Expect $(`h2.a span`) to have text containing\n                \n                Expected: \"Designed to move you.\"\n                Received: \"Why Volvo?\"\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\/mildhybrid.js:22:41)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+                "steps" : [ ],
+                "attachments" : [ ],
+                "parameters" : [ ],
+                "hasContent" : true,
+                "stepsCount" : 0,
+                "attachmentsCount" : 0,
+                "shouldDisplayMessage" : true
+              } ],
+              "attachments" : [ ],
+              "parameters" : [ ],
+              "hasContent" : true,
+              "stepsCount" : 1,
+              "attachmentsCount" : 0,
+              "shouldDisplayMessage" : false
+            } ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "hasContent" : true,
+            "stepsCount" : 2,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : true,
+          "stepsCount" : 3,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 4,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 5,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "DELETE /session/:sessionId",
+      "time" : {
+        "start" : 1618039028841,
+        "stop" : 0,
+        "duration" : -1618039028841
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 20,
+    "attachmentsCount" : 16,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify headings on mild hybrid cars page"
+  }, {
+    "name" : "package",
+    "value" : "scroll down Page to Mild Hybrid Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20ed202d3ed8a973.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

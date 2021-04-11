@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"h2.a span\"}\n  (Session info: chrome=89.0.4389.114)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x0079E7D3+124883]\n\tOrdinal0 [0x0079E7B1+124849]\n\tGetHandleVerifier [0x009E8688+193832]\n\tGetHandleVerifier [0x00A0C478+340760]\n\tGetHandleVerifier [0x00A2EE42+482530]\n\tGetHandleVerifier [0x00A216BA+427354]\n\tGetHandleVerifier [0x00A2D6EB+476555]\n\tGetHandleVerifier [0x00A2154B+426987]\n\tGetHandleVerifier [0x00A04FFD+310941]\n\tGetHandleVerifier [0x00A05D8E+314414]\n\tGetHandleVerifier [0x00A05D19+314297]\n\tGetHandleVerifier [0x00AC31EC+1089676]\n\tGetHandleVerifier [0x00AC17C9+1082985]\n\tGetHandleVerifier [0x00AC13A3+1081923]\n\tGetHandleVerifier [0x00BBD9FD+2115741]\n\tOrdinal0 [0x008EB82E+1488942]\n\tOrdinal0 [0x00885A7D+1071741]\n\tOrdinal0 [0x0088559B+1070491]\n\tOrdinal0 [0x008854B1+1070257]\n\tOrdinal0 [0x008BFF53+1310547]\n\tBaseThreadInitThunk [0x75EBFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x76FA7C7E+286]\n\tRtlGetAppContainerNamedObjectPath [0x76FA7C4E+238]\n"
+}

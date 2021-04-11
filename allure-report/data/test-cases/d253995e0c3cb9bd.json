@@ -1,0 +1,170 @@
+{
+  "uid" : "d253995e0c3cb9bd",
+  "name" : "Verify User is able to click on Cars Link",
+  "fullName" : "Volvo Home Page.Verify User is able to click on Cars Link",
+  "historyId" : "fcc511ea6f904a1b6d8ed05774e0a21e",
+  "time" : {
+    "start" : 1618003364364,
+    "stop" : 1618003370010,
+    "duration" : 5646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <button data-autoid=\"nav:topNavCarMenu\" id=\"nav:topNavCarMenu\" data-track-onclick=\"{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventLabel&quot;:&quot;Cars&quot;}\" type=\"button\" class=\"_SiteNav-a _SiteNav-ah _SiteNav-bv _SiteNav-bw _SiteNav-bx _SiteNav-by _SiteNav-bz _SiteNav-ca _SiteNav-cb _SiteNav-cc _SiteNav-cd _SiteNav-ce _SiteNav-cg _SiteNav-do _SiteNav-dp _SiteNav-dq _SiteNav-dr _SiteNav-ds _SiteNav-dt _SiteNav-du _SiteNav-m\">...</button> is not clickable at point (1171, 32). Other element would receive the click: <div class=\"optanon-alert-box-bottom-top\">...</div>\n                  (Session info: chrome=89.0.4389.114)",
+  "statusTrace" : "element click intercepted: Element <button data-autoid=\"nav:topNavCarMenu\" id=\"nav:topNavCarMenu\" data-track-onclick=\"{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventLabel&quot;:&quot;Cars&quot;}\" type=\"button\" class=\"_SiteNav-a _SiteNav-ah _SiteNav-bv _SiteNav-bw _SiteNav-bx _SiteNav-by _SiteNav-bz _SiteNav-ca _SiteNav-cb _SiteNav-cc _SiteNav-cd _SiteNav-ce _SiteNav-cg _SiteNav-do _SiteNav-dp _SiteNav-dq _SiteNav-dr _SiteNav-ds _SiteNav-dt _SiteNav-du _SiteNav-m\">...</button> is not clickable at point (1171, 32). Other element would receive the click: <div class=\"optanon-alert-box-bottom-top\">...</div>\n                  (Session info: chrome=89.0.4389.114)\n                    at Object.getErrorFromResponseBody (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:23:32)\n                    at async Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:25)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\homepage.js:14:18)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <button data-autoid=\"nav:topNavCarMenu\" id=\"nav:topNavCarMenu\" data-track-onclick=\"{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventLabel&quot;:&quot;Cars&quot;}\" type=\"button\" class=\"_SiteNav-a _SiteNav-ah _SiteNav-bv _SiteNav-bw _SiteNav-bx _SiteNav-by _SiteNav-bz _SiteNav-ca _SiteNav-cb _SiteNav-cc _SiteNav-cd _SiteNav-ce _SiteNav-cg _SiteNav-do _SiteNav-dp _SiteNav-dq _SiteNav-dr _SiteNav-ds _SiteNav-dt _SiteNav-du _SiteNav-m\">...</button> is not clickable at point (1171, 32). Other element would receive the click: <div class=\"optanon-alert-box-bottom-top\">...</div>\n                  (Session info: chrome=89.0.4389.114)",
+    "statusTrace" : "element click intercepted: Element <button data-autoid=\"nav:topNavCarMenu\" id=\"nav:topNavCarMenu\" data-track-onclick=\"{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventLabel&quot;:&quot;Cars&quot;}\" type=\"button\" class=\"_SiteNav-a _SiteNav-ah _SiteNav-bv _SiteNav-bw _SiteNav-bx _SiteNav-by _SiteNav-bz _SiteNav-ca _SiteNav-cb _SiteNav-cc _SiteNav-cd _SiteNav-ce _SiteNav-cg _SiteNav-do _SiteNav-dp _SiteNav-dq _SiteNav-dr _SiteNav-ds _SiteNav-dt _SiteNav-du _SiteNav-m\">...</button> is not clickable at point (1171, 32). Other element would receive the click: <div class=\"optanon-alert-box-bottom-top\">...</div>\n                  (Session info: chrome=89.0.4389.114)\n                    at Object.getErrorFromResponseBody (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:23:32)\n                    at async Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:25)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\homepage.js:14:18)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+    "steps" : [ {
+      "name" : "DELETE /session/:sessionId/cookie",
+      "time" : {
+        "start" : 1618003364365,
+        "stop" : 1618003365137,
+        "duration" : 772
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618003365137,
+        "stop" : 1618003365148,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f8a8b0699ef6e939",
+        "name" : "Response",
+        "source" : "f8a8b0699ef6e939.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618003365151,
+        "stop" : 1618003365186,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "141cf26e6582b6bd",
+        "name" : "Request",
+        "source" : "141cf26e6582b6bd.json",
+        "type" : "application/json",
+        "size" : 76
+      }, {
+        "uid" : "92fd64dd8ceec82c",
+        "name" : "Response",
+        "source" : "92fd64dd8ceec82c.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/047cd1c8-690e-4e74-bf0d-28dd2224a77d/click",
+      "time" : {
+        "start" : 1618003365207,
+        "stop" : 1618003370010,
+        "duration" : 4803
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: Element <button data-autoid=\"nav:topNavCarMenu\" id=\"nav:topNavCarMenu\" data-track-onclick=\"{&quot;eventAction&quot;:&quot;click&quot;,&quot;eventLabel&quot;:&quot;Cars&quot;}\" type=\"button\" class=\"_SiteNav-a _SiteNav-ah _SiteNav-bv _SiteNav-bw _SiteNav-bx _SiteNav-by _SiteNav-bz _SiteNav-ca _SiteNav-cb _SiteNav-cc _SiteNav-cd _SiteNav-ce _SiteNav-cg _SiteNav-do _SiteNav-dp _SiteNav-dq _SiteNav-dr _SiteNav-ds _SiteNav-dt _SiteNav-du _SiteNav-m\">...</button> is not clickable at point (1171, 32). Other element would receive the click: <div class=\"optanon-alert-box-bottom-top\">...</div>\n                  (Session info: chrome=89.0.4389.114)\n                    at Object.getErrorFromResponseBody (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\utils.js:189:12)\n                    at WebDriverRequest._request (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriver\\build\\request.js:168:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:23:32)\n                    at async Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:105:25)\n                    at Element.runCommandWithHooks (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:100:24)\n                    at Element.wrapCommandFn (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:67:44)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\webdriverio\\build\\middlewares.js:44:12)\n                    at Context.<anonymous> (C:\\Users\\rohit\\Documents\\Wdio_Docker\\test\\specs\\homepage.js:14:18)\n                    at Context.executeSync (C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:38:22)\n                    at C:\\Users\\rohit\\Documents\\Wdio_Docker\\node_modules\\@wdio\\sync\\build\\index.js:69:68",
+      "steps" : [ {
+        "name" : "GET /session/:sessionId/screenshot",
+        "time" : {
+          "start" : 1618003369589,
+          "stop" : 1618003370010,
+          "duration" : 421
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "a98ec144f92223fd",
+          "name" : "Screenshot",
+          "source" : "a98ec144f92223fd.png",
+          "type" : "image/png",
+          "size" : 78893
+        } ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to click on Cars Link"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d253995e0c3cb9bd.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

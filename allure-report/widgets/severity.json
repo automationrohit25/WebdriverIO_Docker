@@ -1,0 +1,101 @@
+[ {
+  "uid" : "81bc59fef2cba472",
+  "name" : "Verify User is able to click on Cars Link and verify types of cars",
+  "time" : {
+    "start" : 1618041709639,
+    "stop" : 1618041729463,
+    "duration" : 19824
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8781d1dc353a084c",
+  "name" : "should verify headings on mild hybrid cars page",
+  "time" : {
+    "start" : 1618041728382,
+    "stop" : 1618041732792,
+    "duration" : 4410
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbf20aba4c6af38c",
+  "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+  "time" : {
+    "start" : 1618041636548,
+    "stop" : 1618041683730,
+    "duration" : 47182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e085e40dad4014bb",
+  "name" : "should verify headings on mild hybrid cars page",
+  "time" : {
+    "start" : 1618041683736,
+    "stop" : 1618041685859,
+    "duration" : 2123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "402d337dbcb414b4",
+  "name" : "Verify Title of Volvo Home Page",
+  "time" : {
+    "start" : 1618041688596,
+    "stop" : 1618041709638,
+    "duration" : 21042
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "748800ff56d5654f",
+  "name" : "Verify Title of Volvo Home Page",
+  "time" : {
+    "start" : 1618041635857,
+    "stop" : 1618041677281,
+    "duration" : 41424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c9936418e20e53",
+  "name" : "Click on Mild Hybrid Cars and Land on New Page",
+  "time" : {
+    "start" : 1618026405423,
+    "stop" : 1618026427951,
+    "duration" : 22528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afdb0248d24ff6e7",
+  "name" : "Verify User is able to click on Cars Link",
+  "time" : {
+    "start" : 1618003618937,
+    "stop" : 1618003626526,
+    "duration" : 7589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6cd69a61063ed44",
+  "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+  "time" : {
+    "start" : 1618041694315,
+    "stop" : 1618041728380,
+    "duration" : 34065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "936b92b1a5bdaf0f",
+  "name" : "Verify User is able to click on Cars Link and verify types of cars",
+  "time" : {
+    "start" : 1618041677283,
+    "stop" : 1618041691403,
+    "duration" : 14120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

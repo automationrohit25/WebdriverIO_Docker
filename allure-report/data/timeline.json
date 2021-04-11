@@ -1,0 +1,1399 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "93415f8912c66d18",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028507675,
+        "stop" : 1618028507819,
+        "duration" : 144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and Land on New Page",
+      "uid" : "9176a9f1fc3ce974",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618026122746,
+        "stop" : 1618026151324,
+        "duration" : 28578
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "957f6ba384053a59",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618028410748,
+        "stop" : 1618028435060,
+        "duration" : 24312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "8b4ac523305e6e59",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040691466,
+        "stop" : 1618040692945,
+        "duration" : 1479
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "5141ccbdd9467f63",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618039189838,
+        "stop" : 1618039200391,
+        "duration" : 10553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "d5d74b1a7de9708a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028199856,
+        "stop" : 1618028222786,
+        "duration" : 22930
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "7eef63bb767ec633",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039272975,
+        "stop" : 1618039273470,
+        "duration" : 495
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "1b6f1be6d140b4c1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039253933,
+        "stop" : 1618039272974,
+        "duration" : 19041
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "6bb0c3387d63e21a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028488963,
+        "stop" : 1618028507674,
+        "duration" : 18711
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "5b5eafa9d818396a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618028054187,
+        "stop" : 1618028064653,
+        "duration" : 10466
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "523355e55100b598",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618028030847,
+        "stop" : 1618028054186,
+        "duration" : 23339
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "8051970975953ba2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028222787,
+        "stop" : 1618028223174,
+        "duration" : 387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "8963ed7998d80468",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041160442,
+        "stop" : 1618041190258,
+        "duration" : 29816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "f3a096277d86e48f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041190267,
+        "stop" : 1618041193017,
+        "duration" : 2750
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and Land on New Page",
+      "uid" : "2761122fe26404e3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618026214193,
+        "stop" : 1618026238383,
+        "duration" : 24190
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "fbf20aba4c6af38c",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041636548,
+        "stop" : 1618041683730,
+        "duration" : 47182
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "5d6b330f234f242f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618039167571,
+        "stop" : 1618039189836,
+        "duration" : 22265
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "e085e40dad4014bb",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041683736,
+        "stop" : 1618041685859,
+        "duration" : 2123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "2f3738d1a5ca33c2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618028435061,
+        "stop" : 1618028445543,
+        "duration" : 10482
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and Land on New Page",
+      "uid" : "2c9936418e20e53",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026405423,
+        "stop" : 1618026427951,
+        "duration" : 22528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "9e3bf0fdd619fa10",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040649173,
+        "stop" : 1618040691464,
+        "duration" : 42291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "226aa48ea738fc9d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618038647526,
+        "stop" : 1618038658067,
+        "duration" : 10541
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "ab1399d45d127eb4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618037535822,
+        "stop" : 1618037536434,
+        "duration" : 612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "ae9bb89d4236b119",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618038253196,
+        "stop" : 1618038264108,
+        "duration" : 10912
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link",
+      "uid" : "d84b7a77b19e1e6d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618003242224,
+        "stop" : 1618003247408,
+        "duration" : 5184
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "649b497dcf92b498",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618038527945,
+        "stop" : 1618038543537,
+        "duration" : 15592
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "4035eacacef30afb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618002189439,
+        "stop" : 1618002194883,
+        "duration" : 5444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "d906767b48ed27e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618002468888,
+        "stop" : 1618002481376,
+        "duration" : 12488
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "228a2b536368b498",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618037046236,
+        "stop" : 1618037053078,
+        "duration" : 6842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "77d937e014159884",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618037905415,
+        "stop" : 1618037916134,
+        "duration" : 10719
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link",
+      "uid" : "afdb0248d24ff6e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618003618937,
+        "stop" : 1618003626526,
+        "duration" : 7589
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "84dce52496934611",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028204422,
+        "stop" : 1618028218270,
+        "duration" : 13848
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "201a0868265e1b7c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618033438966,
+        "stop" : 1618033446075,
+        "duration" : 7109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "20ed202d3ed8a973",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618039015285,
+        "stop" : 1618039028839,
+        "duration" : 13554
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "f69c2cc527400453",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618003357512,
+        "stop" : 1618003364362,
+        "duration" : 6850
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "2d812f12bbe9a136",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038768382,
+        "stop" : 1618038784426,
+        "duration" : 16044
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "c02dc339cecffe35",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618037032837,
+        "stop" : 1618037046235,
+        "duration" : 13398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "99fe9e2e08df12a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039253615,
+        "stop" : 1618039269827,
+        "duration" : 16212
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "c054e283b5c4eaaf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618038006369,
+        "stop" : 1618038016806,
+        "duration" : 10437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "fde6da2335056c40",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026122732,
+        "stop" : 1618026151624,
+        "duration" : 28892
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "61acdfa4e3f0781b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618005802493,
+        "stop" : 1618005814080,
+        "duration" : 11587
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "8364575ae539c1fb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618003606631,
+        "stop" : 1618003618936,
+        "duration" : 12305
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "69302934e3994543",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618033223321,
+        "stop" : 1618033233997,
+        "duration" : 10676
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link",
+      "uid" : "187f818f9fefaed1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618003528198,
+        "stop" : 1618003531136,
+        "duration" : 2938
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "487f13cbe2417ab6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039269828,
+        "stop" : 1618039277090,
+        "duration" : 7262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "450dfa1c1b600e22",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618033222635,
+        "stop" : 1618033223320,
+        "duration" : 685
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "748800ff56d5654f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041635857,
+        "stop" : 1618041677281,
+        "duration" : 41424
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link",
+      "uid" : "d253995e0c3cb9bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618003364364,
+        "stop" : 1618003370010,
+        "duration" : 5646
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "115abf763e0bcbb2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041190257,
+        "stop" : 1618041200129,
+        "duration" : 9872
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "b6608cbbbf562974",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618038543538,
+        "stop" : 1618038553931,
+        "duration" : 10393
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "6dffbad5f0681f74",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028493899,
+        "stop" : 1618028505785,
+        "duration" : 11886
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "e0f4418835f06278",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039125165,
+        "stop" : 1618039125654,
+        "duration" : 489
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "a2631159d321fa0e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618038373320,
+        "stop" : 1618038383861,
+        "duration" : 10541
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "81a60cde1f8fc523",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618037893953,
+        "stop" : 1618037905414,
+        "duration" : 11461
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "50e745fab72ae50e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038849596,
+        "stop" : 1618038862900,
+        "duration" : 13304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "c9eed252f3507f3d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028428446,
+        "stop" : 1618028444082,
+        "duration" : 15636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "e67d62046911c3ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026423150,
+        "stop" : 1618026436931,
+        "duration" : 13781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "7e5e0e48679a204b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618033132068,
+        "stop" : 1618033133730,
+        "duration" : 1662
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "d03a94b52d916d22",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038784427,
+        "stop" : 1618038784973,
+        "duration" : 546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "df9d461333b6ff13",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618003514669,
+        "stop" : 1618003528197,
+        "duration" : 13528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "e17a2367250a61ef",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618038362819,
+        "stop" : 1618038373319,
+        "duration" : 10500
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "31f8a3259ac3846",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026238113,
+        "stop" : 1618026251759,
+        "duration" : 13646
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "b42dae8de5116b75",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028030843,
+        "stop" : 1618028050407,
+        "duration" : 19564
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "6064d2c3eee5b3bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026409457,
+        "stop" : 1618026423149,
+        "duration" : 13692
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "10928eaf1cdfac46",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618033133731,
+        "stop" : 1618033144288,
+        "duration" : 10557
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and Land on New Page",
+      "uid" : "cba495592f5aed9c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026367610,
+        "stop" : 1618026377843,
+        "duration" : 10233
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "fe6223d0002f1599",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618038264109,
+        "stop" : 1618038274492,
+        "duration" : 10383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "f5ee7e540e836361",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618003227868,
+        "stop" : 1618003242223,
+        "duration" : 14355
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "82d58f2a6d1a4b76",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618005790026,
+        "stop" : 1618005802492,
+        "duration" : 12466
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "82781c3737e4af90",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028218271,
+        "stop" : 1618028231159,
+        "duration" : 12888
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "af87f7262acb4ab0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618037993488,
+        "stop" : 1618038006367,
+        "duration" : 12879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "8849b3948bb29fbf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026151625,
+        "stop" : 1618026163350,
+        "duration" : 11725
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "2495925c6163e40b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026215208,
+        "stop" : 1618026238112,
+        "duration" : 22904
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "76d084cc53895e41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028415809,
+        "stop" : 1618028428445,
+        "duration" : 12636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "c641a1db0810d16f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039109183,
+        "stop" : 1618039125164,
+        "duration" : 15981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "be4de71403a78aae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040688338,
+        "stop" : 1618040695947,
+        "duration" : 7609
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "9901fa994de4e3ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1618038997415,
+        "stop" : 1618039015284,
+        "duration" : 17869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "450a34349ae9414e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618001947746,
+        "stop" : 1618001955986,
+        "duration" : 8240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "7c9b42cab1ec7662",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038862903,
+        "stop" : 1618038863493,
+        "duration" : 590
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "9ee278f59b77119d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041159025,
+        "stop" : 1618041190255,
+        "duration" : 31230
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "a930477e575f220",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618005381186,
+        "stop" : 1618005397913,
+        "duration" : 16727
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "9f3417faaa5c10f2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039183887,
+        "stop" : 1618039190821,
+        "duration" : 6934
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "809536036a0c651a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028050408,
+        "stop" : 1618028063125,
+        "duration" : 12717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "b3095c0fc78b7ede",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618033425815,
+        "stop" : 1618033438965,
+        "duration" : 13150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "ada462c60d721b1f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618038632569,
+        "stop" : 1618038647523,
+        "duration" : 14954
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "936b92b1a5bdaf0f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041677283,
+        "stop" : 1618041691403,
+        "duration" : 14120
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "b1a732e02a1c0a8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618037520424,
+        "stop" : 1618037535821,
+        "duration" : 15397
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "56dd181c7e590c01",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028480613,
+        "stop" : 1618028493897,
+        "duration" : 13284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "f86f708e017b370b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618001825416,
+        "stop" : 1618001842559,
+        "duration" : 17143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "43ac369b35d28151",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618005367427,
+        "stop" : 1618005381185,
+        "duration" : 13758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "456b4a0ad26b88be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040649727,
+        "stop" : 1618040688337,
+        "duration" : 38610
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "920b2237f49b0432",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618005492851,
+        "stop" : 1618005504713,
+        "duration" : 11862
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "c536f05ad0f4062",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618005504714,
+        "stop" : 1618005520942,
+        "duration" : 16228
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "2906f6674e138b56",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039167626,
+        "stop" : 1618039183885,
+        "duration" : 16259
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.114" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "1-1",
+    "children" : [ {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "87f277560bdbbd52",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041232160,
+        "stop" : 1618041235859,
+        "duration" : 3699
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "b6cd69a61063ed44",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041694315,
+        "stop" : 1618041728380,
+        "duration" : 34065
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "8781d1dc353a084c",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041728382,
+        "stop" : 1618041732792,
+        "duration" : 4410
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "3481a48d6f0d082a",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041202182,
+        "stop" : 1618041232159,
+        "duration" : 29977
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Click on Mild Hybrid Cars and redirect to New Page",
+      "uid" : "5419a771a3eeb888",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040717350,
+        "stop" : 1618040742576,
+        "duration" : 25226
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "should verify headings on mild hybrid cars page",
+      "uid" : "77fab556187a2f62",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040742578,
+        "stop" : 1618040746486,
+        "duration" : 3908
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    } ],
+    "uid" : "7f515bb52d6d225c0a299e7d9c0e2786"
+  }, {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "402d337dbcb414b4",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041688596,
+        "stop" : 1618041709638,
+        "duration" : 21042
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "81bc59fef2cba472",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618041709639,
+        "stop" : 1618041729463,
+        "duration" : 19824
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "d4d9c782698ddc6c",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041195113,
+        "stop" : 1618041220635,
+        "duration" : 25522
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "989736c39e05a257",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618040736453,
+        "stop" : 1618040755907,
+        "duration" : 19454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Verify Title of Volvo Home Page",
+      "uid" : "2766450f31681e01",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040717345,
+        "stop" : 1618040736452,
+        "duration" : 19107
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    }, {
+      "name" : "Verify User is able to click on Cars Link and verify types of cars",
+      "uid" : "bcc81b7f7a7468d2",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1618041220638,
+        "stop" : 1618041240586,
+        "duration" : 19948
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-64.0" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  } ]
+}

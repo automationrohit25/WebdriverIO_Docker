@@ -1,0 +1,346 @@
+{
+  "uid" : "2c9936418e20e53",
+  "name" : "Click on Mild Hybrid Cars and Land on New Page",
+  "fullName" : "User is able to scroll down Page.Click on Mild Hybrid Cars and Land on New Page",
+  "historyId" : "f62bc1177f762f0acca49da9dcf9a741",
+  "time" : {
+    "start" : 1618026405423,
+    "stop" : 1618026427951,
+    "duration" : 22528
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618026405430,
+        "stop" : 1618026405630,
+        "duration" : 200
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "83484e5c2f5cd934",
+        "name" : "Response",
+        "source" : "83484e5c2f5cd934.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1618026405633,
+        "stop" : 1618026421848,
+        "duration" : 16215
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c99824bc6c91931e",
+        "name" : "Request",
+        "source" : "c99824bc6c91931e.json",
+        "type" : "application/json",
+        "size" : 73
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618026421851,
+        "stop" : 1618026421889,
+        "duration" : 38
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a9d49c531069e9",
+        "name" : "Request",
+        "source" : "7a9d49c531069e9.json",
+        "type" : "application/json",
+        "size" : 68
+      }, {
+        "uid" : "c2e24054ca21f805",
+        "name" : "Response",
+        "source" : "c2e24054ca21f805.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/dda5e4d8-f0a7-4784-8e0d-6b11821fd261/click",
+      "time" : {
+        "start" : 1618026421909,
+        "stop" : 1618026422268,
+        "duration" : 359
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618026425271,
+        "stop" : 1618026425395,
+        "duration" : 124
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "59a3612462255f91",
+        "name" : "Request",
+        "source" : "59a3612462255f91.json",
+        "type" : "application/json",
+        "size" : 87
+      }, {
+        "uid" : "f21601ea362a817c",
+        "name" : "Response",
+        "source" : "f21601ea362a817c.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1618026425405,
+        "stop" : 1618026425441,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e518adc4ef74e839",
+        "name" : "Request",
+        "source" : "e518adc4ef74e839.json",
+        "type" : "application/json",
+        "size" : 302
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/5fac135c-d517-4b59-bc91-2a016eb89902/click",
+      "time" : {
+        "start" : 1618026425441,
+        "stop" : 0,
+        "duration" : -1618026425441
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1618026426045,
+          "stop" : 1618026426140,
+          "duration" : 95
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "5d0401bf096c8cf9",
+          "name" : "Request",
+          "source" : "5d0401bf096c8cf9.json",
+          "type" : "application/json",
+          "size" : 87
+        }, {
+          "uid" : "2569f88399022ba6",
+          "name" : "Response",
+          "source" : "2569f88399022ba6.json",
+          "type" : "application/json",
+          "size" : 83
+        } ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 0,
+        "attachmentsCount" : 2,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "POST /session/:sessionId/element/5fac135c-d517-4b59-bc91-2a016eb89902/click",
+        "time" : {
+          "start" : 1618026426147,
+          "stop" : 0,
+          "duration" : -1618026426147
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/element",
+          "time" : {
+            "start" : 1618026426175,
+            "stop" : 1618026426207,
+            "duration" : 32
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "63f3a377918a0621",
+            "name" : "Request",
+            "source" : "63f3a377918a0621.json",
+            "type" : "application/json",
+            "size" : 87
+          }, {
+            "uid" : "2e88a3af706d850a",
+            "name" : "Response",
+            "source" : "2e88a3af706d850a.json",
+            "type" : "application/json",
+            "size" : 83
+          } ],
+          "parameters" : [ ],
+          "hasContent" : true,
+          "stepsCount" : 0,
+          "attachmentsCount" : 2,
+          "shouldDisplayMessage" : false
+        }, {
+          "name" : "POST /session/:sessionId/element/9a4b99dc-578e-4141-86de-ac495ed95140/click",
+          "time" : {
+            "start" : 1618026426215,
+            "stop" : 1618026427918,
+            "duration" : 1703
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "hasContent" : false,
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false
+        }, {
+          "name" : "GET /session/:sessionId/title",
+          "time" : {
+            "start" : 1618026427924,
+            "stop" : 1618026427941,
+            "duration" : 17
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "ead6532c34714b23",
+            "name" : "Response",
+            "source" : "ead6532c34714b23.json",
+            "type" : "application/json",
+            "size" : 49
+          } ],
+          "parameters" : [ ],
+          "hasContent" : true,
+          "stepsCount" : 0,
+          "attachmentsCount" : 1,
+          "shouldDisplayMessage" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : true,
+        "stepsCount" : 3,
+        "attachmentsCount" : 3,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 5,
+      "attachmentsCount" : 5,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 12,
+    "attachmentsCount" : 12,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "User is able to scroll down Page"
+  }, {
+    "name" : "testClass",
+    "value" : "User is able to scroll down Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click on Mild Hybrid Cars and Land on New Page"
+  }, {
+    "name" : "package",
+    "value" : "User is able to scroll down Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cba495592f5aed9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026367610,
+        "stop" : 1618026377843,
+        "duration" : 10233
+      }
+    }, {
+      "uid" : "2761122fe26404e3",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a target=\"\" aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/intl/v/cars/other-powertrains\" class=\"a ae ag aw du dv ec gm gn go gp gq gr gs gt gu\">...</a> is not clickable at point (574, 58). Other element would receive the click: <div class=\"_SiteNav-ae _SiteNav-af _SiteNav-ag _SiteNav-r _SiteNav-u _SiteNav-v _SiteNav-w\">...</div>\n                  (Session info: chrome=89.0.4389.114)",
+      "time" : {
+        "start" : 1618026214193,
+        "stop" : 1618026238383,
+        "duration" : 24190
+      }
+    }, {
+      "uid" : "9176a9f1fc3ce974",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a target=\"\" aria-label=\"Browse our other models\" data-autoid=\"ProductListCarousel:cta2\" href=\"/intl/v/cars/other-powertrains\" class=\"a ae ag aw du dv ec gm gn go gp gq gr gs gt gu\">...</a> is not clickable at point (574, 58). Other element would receive the click: <div class=\"optanon-alert-box-bg\">...</div>\n                  (Session info: chrome=89.0.4389.114)",
+      "time" : {
+        "start" : 1618026122746,
+        "stop" : 1618026151324,
+        "duration" : 28578
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c9936418e20e53.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}

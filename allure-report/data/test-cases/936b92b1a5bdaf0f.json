@@ -1,0 +1,465 @@
+{
+  "uid" : "936b92b1a5bdaf0f",
+  "name" : "Verify User is able to click on Cars Link and verify types of cars",
+  "fullName" : "Volvo Home Page.Verify User is able to click on Cars Link and verify types of cars",
+  "historyId" : "bfa9fa5f9d0e052e0d8603c6b289d3b3",
+  "time" : {
+    "start" : 1618041677283,
+    "stop" : 1618041691403,
+    "duration" : 14120
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1618041677284,
+        "stop" : 1618041677593,
+        "duration" : 309
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a2337e607e5dec4",
+        "name" : "Response",
+        "source" : "7a2337e607e5dec4.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041677594,
+        "stop" : 1618041677738,
+        "duration" : 144
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8b3d97b86edc2ec6",
+        "name" : "Request",
+        "source" : "8b3d97b86edc2ec6.json",
+        "type" : "application/json",
+        "size" : 76
+      }, {
+        "uid" : "32083d946b59323f",
+        "name" : "Response",
+        "source" : "32083d946b59323f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/f53e3dfd-1c73-4571-b576-27d4cdd9f83c/click",
+      "time" : {
+        "start" : 1618041677749,
+        "stop" : 1618041679132,
+        "duration" : 1383
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041684214,
+        "stop" : 1618041684687,
+        "duration" : 473
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "25eb988310b11765",
+        "name" : "Request",
+        "source" : "25eb988310b11765.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "e3fc40778491596d",
+        "name" : "Response",
+        "source" : "e3fc40778491596d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/cb6df99d-b02a-4d48-9971-5b825cb25b7e/text",
+      "time" : {
+        "start" : 1618041684707,
+        "stop" : 1618041688008,
+        "duration" : 3301
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2306f589e08ce576",
+        "name" : "Response",
+        "source" : "2306f589e08ce576.json",
+        "type" : "application/json",
+        "size" : 10
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041688011,
+        "stop" : 1618041689081,
+        "duration" : 1070
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "58ec3eaa68d3fae0",
+        "name" : "Request",
+        "source" : "58ec3eaa68d3fae0.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "b74d74b9dbc26041",
+        "name" : "Response",
+        "source" : "b74d74b9dbc26041.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/1e2c1952-ca54-42e0-a9b5-3748d816de93/text",
+      "time" : {
+        "start" : 1618041689095,
+        "stop" : 1618041689717,
+        "duration" : 622
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5203fdcbfe9e0f2b",
+        "name" : "Response",
+        "source" : "5203fdcbfe9e0f2b.json",
+        "type" : "application/json",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041689718,
+        "stop" : 1618041690713,
+        "duration" : 995
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "647f076e920d6c",
+        "name" : "Request",
+        "source" : "647f076e920d6c.json",
+        "type" : "application/json",
+        "size" : 80
+      }, {
+        "uid" : "ff02fe8036d2fe90",
+        "name" : "Response",
+        "source" : "ff02fe8036d2fe90.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/1a080f5c-b827-4b4d-a464-d7a840e755f5/text",
+      "time" : {
+        "start" : 1618041690733,
+        "stop" : 1618041690775,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b63c2c282b174555",
+        "name" : "Response",
+        "source" : "b63c2c282b174555.json",
+        "type" : "application/json",
+        "size" : 14
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1618041690778,
+        "stop" : 1618041690829,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "824ea8d75a287f68",
+        "name" : "Request",
+        "source" : "824ea8d75a287f68.json",
+        "type" : "application/json",
+        "size" : 95
+      }, {
+        "uid" : "4c69777cbbe3c753",
+        "name" : "Response",
+        "source" : "4c69777cbbe3c753.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/89542519-faed-4ea0-8ff6-6eb5357acb10/click",
+      "time" : {
+        "start" : 1618041690844,
+        "stop" : 1618041691402,
+        "duration" : 558
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "attachmentsCount" : 14,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to click on Cars Link and verify types of cars"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.114"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "115abf763e0bcbb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618041190257,
+        "stop" : 1618041200129,
+        "duration" : 9872
+      }
+    }, {
+      "uid" : "be4de71403a78aae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618040688338,
+        "stop" : 1618040695947,
+        "duration" : 7609
+      }
+    }, {
+      "uid" : "487f13cbe2417ab6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039269828,
+        "stop" : 1618039277090,
+        "duration" : 7262
+      }
+    }, {
+      "uid" : "9f3417faaa5c10f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618039183887,
+        "stop" : 1618039190821,
+        "duration" : 6934
+      }
+    }, {
+      "uid" : "228a2b536368b498",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618037046236,
+        "stop" : 1618037053078,
+        "duration" : 6842
+      }
+    }, {
+      "uid" : "201a0868265e1b7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618033438966,
+        "stop" : 1618033446075,
+        "duration" : 7109
+      }
+    }, {
+      "uid" : "69302934e3994543",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"button[id=\"nav:topNavCarMenu\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1618033223321,
+        "stop" : 1618033233997,
+        "duration" : 10676
+      }
+    }, {
+      "uid" : "10928eaf1cdfac46",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"button[id=\"nav:topNavCarMenu\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1618033133731,
+        "stop" : 1618033144288,
+        "duration" : 10557
+      }
+    }, {
+      "uid" : "6dffbad5f0681f74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028493899,
+        "stop" : 1618028505785,
+        "duration" : 11886
+      }
+    }, {
+      "uid" : "c9eed252f3507f3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028428446,
+        "stop" : 1618028444082,
+        "duration" : 15636
+      }
+    }, {
+      "uid" : "82781c3737e4af90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028218271,
+        "stop" : 1618028231159,
+        "duration" : 12888
+      }
+    }, {
+      "uid" : "809536036a0c651a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618028050408,
+        "stop" : 1618028063125,
+        "duration" : 12717
+      }
+    }, {
+      "uid" : "e67d62046911c3ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026423150,
+        "stop" : 1618026436931,
+        "duration" : 13781
+      }
+    }, {
+      "uid" : "31f8a3259ac3846",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026238113,
+        "stop" : 1618026251759,
+        "duration" : 13646
+      }
+    }, {
+      "uid" : "8849b3948bb29fbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618026151625,
+        "stop" : 1618026163350,
+        "duration" : 11725
+      }
+    }, {
+      "uid" : "61acdfa4e3f0781b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618005802493,
+        "stop" : 1618005814080,
+        "duration" : 11587
+      }
+    }, {
+      "uid" : "c536f05ad0f4062",
+      "status" : "failed",
+      "statusDetails" : "Expect Electric to have property value\n                \n                Expected: \"Electric\"\n                Received: undefined",
+      "time" : {
+        "start" : 1618005504714,
+        "stop" : 1618005520942,
+        "duration" : 16228
+      }
+    }, {
+      "uid" : "a930477e575f220",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`#site-nav-cars-menu-section-tab-0 h2`) to have property value\n                \n                Expected: \"Electric\"\n                Received: null",
+      "time" : {
+        "start" : 1618005381186,
+        "stop" : 1618005397913,
+        "duration" : 16727
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "936b92b1a5bdaf0f.json",
+  "parameterValues" : [ "chrome-89.0.4389.114" ]
+}
